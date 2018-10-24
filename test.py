@@ -1,2 +1,5 @@
-a=[1,2,3]
-print(a[4:])
+from collections import Counter
+a='sdv'
+b=''.join(sorted(a))
+print(a)
+print(b)
