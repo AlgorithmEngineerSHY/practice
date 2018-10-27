@@ -1,5 +1,2 @@
-from collections import Counter
-a='sdv'
-b=''.join(sorted(a))
+a=set([(1,3)])
 print(a)
-print(b)
