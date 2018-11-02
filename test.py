@@ -1,2 +1,1 @@
-a=set([(1,3)])
-print(a)
+print(None == None)
