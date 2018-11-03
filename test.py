@@ -1,1 +1,1 @@
-print(None == None)
+'1'.isnumeric()

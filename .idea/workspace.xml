@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1427edec-3c05-4c7d-9243-f261033f57de" name="Default" comment="20181026">
-      <change afterPath="$PROJECT_DIR$/search/Search_in_Rotated_Sorted_Array_II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/Word_Ladder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/Clockwise_printing_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/Delete_duplicate_nodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/FindContinuousSequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/IsBalanced_Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/StrToInt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/The_entrance_of_the_ring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/Two_fork_tree_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/jumpFloor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/jumpFloorII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/min_func_stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/printListFromTailToHead.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/rectCover.py" afterDir="false" />
+    <list default="true" id="1427edec-3c05-4c7d-9243-f261033f57de" name="Default" comment="20181102">
+      <change afterPath="$PROJECT_DIR$/sword/FindNumbersWithSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/FindNumsAppearOnce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/GetNext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/GetNumberOfK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/LeftRotateString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/Print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/Print2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/ReverseSentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/Serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/TreeDepth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/isSymmetrical.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,39 +26,40 @@
     <session id="-1681258455">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="36" />
+          <entry key="project.closed" value="37" />
           <entry key="project.open.time.0" value="23" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.26" value="3" />
           <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="38" />
+          <entry key="project.opened" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="24712" />
-          <entry key="txt" value="13" />
+          <entry key="dummy" value="4" />
+          <entry key="py" value="28061" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="24712" />
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Python" value="28061" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="89" />
+          <entry key="py" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="89" />
+          <entry key="Python" value="100" />
         </counts>
       </usages-collector>
     </session>
@@ -77,28 +73,16 @@
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sword/FindContinuousSequence.py">
+        <entry file="file://$PROJECT_DIR$/test2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              <folding>
-                <marker date="1541127307540" expanded="true" signature="45:51" ph="..." />
-              </folding>
+            <state>
+              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -118,17 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/greedy/Jump_Game_II.py" />
-        <option value="$PROJECT_DIR$/greedy/Minimum_Window_Substring.py" />
-        <option value="$PROJECT_DIR$/Divide_and_Conquer/Permutations.py" />
-        <option value="$PROJECT_DIR$/Divide_and_Conquer/Permutations_II.py" />
-        <option value="$PROJECT_DIR$/Divide_and_Conquer/Pow(x, n).py" />
-        <option value="$PROJECT_DIR$/Divide_and_Conquer/Restore_IP_Addresses.py" />
-        <option value="$PROJECT_DIR$/dynamic/Unique_Paths.py" />
-        <option value="$PROJECT_DIR$/dynamic/Unique_Paths_II.py" />
-        <option value="$PROJECT_DIR$/dynamic/minimum-path-sum.py" />
-        <option value="$PROJECT_DIR$/dynamic/Subsets.py" />
-        <option value="$PROJECT_DIR$/dynamic/Subsets_II.py" />
         <option value="$PROJECT_DIR$/dynamic/Gray_Code.py" />
         <option value="$PROJECT_DIR$/dynamic/decode-ways.py" />
         <option value="$PROJECT_DIR$/dynamic/Triangle.py" />
@@ -158,7 +131,6 @@
         <option value="$PROJECT_DIR$/sword/Two_fork_tree_image.py" />
         <option value="$PROJECT_DIR$/sword/Clockwise_printing_matrix.py" />
         <option value="$PROJECT_DIR$/sword/min_func_stack.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/sword/The_entrance_of_the_ring.py" />
         <option value="$PROJECT_DIR$/sword/Delete_duplicate_nodes.py" />
         <option value="$PROJECT_DIR$/sword/printListFromTailToHead.py" />
@@ -169,6 +141,18 @@
         <option value="$PROJECT_DIR$/sword/StrToInt.py" />
         <option value="$PROJECT_DIR$/sword/IsBalanced_Solution.py" />
         <option value="$PROJECT_DIR$/sword/FindContinuousSequence.py" />
+        <option value="$PROJECT_DIR$/sword/LeftRotateString.py" />
+        <option value="$PROJECT_DIR$/sword/GetNumberOfK.py" />
+        <option value="$PROJECT_DIR$/sword/FindNumsAppearOnce.py" />
+        <option value="$PROJECT_DIR$/sword/ReverseSentence.py" />
+        <option value="$PROJECT_DIR$/sword/TreeDepth.py" />
+        <option value="$PROJECT_DIR$/sword/FindNumbersWithSum.py" />
+        <option value="$PROJECT_DIR$/sword/GetNext.py" />
+        <option value="$PROJECT_DIR$/sword/isSymmetrical.py" />
+        <option value="$PROJECT_DIR$/sword/Print.py" />
+        <option value="$PROJECT_DIR$/sword/Print2.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/sword/Serialize.py" />
       </list>
     </option>
   </component>
@@ -197,6 +181,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,7 +198,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,8 +222,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FindContinuousSequence">
-    <configuration name="FindContinuousSequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Serialize">
+    <configuration name="Print" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_work_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,7 +235,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/FindContinuousSequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/Print.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="The_entrance_of_the_ring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Serialize" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_work_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,7 +256,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/The_entrance_of_the_ring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/Serialize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jumpFloor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TreeDepth" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_work_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,7 +277,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/jumpFloor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/TreeDepth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="isSymmetrical" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice_work_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sword" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/isSymmetrical.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,27 +320,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice_work_space" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,19 +358,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.TreeDepth" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.The_entrance_of_the_ring" />
-      <item itemvalue="Python.jumpFloor" />
-      <item itemvalue="Python.test2" />
-      <item itemvalue="Python.FindContinuousSequence" />
+      <item itemvalue="Python.isSymmetrical" />
+      <item itemvalue="Python.Print" />
+      <item itemvalue="Python.Serialize" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FindContinuousSequence" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.jumpFloor" />
-        <item itemvalue="Python.The_entrance_of_the_ring" />
+        <item itemvalue="Python.Serialize" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.Print" />
+        <item itemvalue="Python.isSymmetrical" />
+        <item itemvalue="Python.TreeDepth" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540610099081</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20181102">
+      <created>1541165405958</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541165405958</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -433,7 +424,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.50080776" side_tool="true" weight="0.2695458" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42487884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44264942" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -455,86 +446,10 @@
     <MESSAGE value="20181019" />
     <MESSAGE value="20181024" />
     <MESSAGE value="20181026" />
-    <option name="LAST_COMMIT_MESSAGE" value="20181026" />
+    <MESSAGE value="20181102" />
+    <option name="LAST_COMMIT_MESSAGE" value="20181102" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.5/collections/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="514" column="8" selection-start-line="514" selection-start-column="8" selection-end-line="514" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/greedy/Minimum_Window_Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Divide_and_Conquer/Permutations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Divide_and_Conquer/Permutations_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Divide_and_Conquer/Pow(x, n).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Divide_and_Conquer/Restore_IP_Addresses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic/Unique_Paths.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic/Unique_Paths_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic/minimum-path-sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic/Subsets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic/Subsets_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dynamic/Gray_Code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -725,6 +640,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <marker date="1540957589193" expanded="true" signature="39:93" ph="..." />
+            <marker date="1540957589193" expanded="true" signature="114:123" ph="..." />
+            <marker date="1540957589193" expanded="true" signature="114:240" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -732,6 +652,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
           <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <marker date="1540956551138" expanded="true" signature="77:86" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -742,13 +665,6 @@
           <folding>
             <marker date="1541038794175" expanded="true" signature="143:152" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -818,13 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sword/FindContinuousSequence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -832,6 +741,126 @@
           <folding>
             <marker date="1541127307540" expanded="true" signature="45:51" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/LeftRotateString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <marker date="1541165699186" expanded="true" signature="93:102" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/GetNumberOfK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <marker date="1541165836882" expanded="true" signature="84:93" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/FindNumsAppearOnce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="42" />
+          <folding>
+            <marker date="1541166026950" expanded="true" signature="115:124" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/ReverseSentence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <marker date="1541166387743" expanded="true" signature="94:103" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/TreeDepth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/FindNumbersWithSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding>
+            <marker date="1541167458221" expanded="true" signature="62:71" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/GetNext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/isSymmetrical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <marker date="1541172518844" expanded="true" signature="212:213" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/Print.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <marker date="1541212120956" expanded="true" signature="228:237" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/Print2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" selection-start-line="6" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <marker date="1541212865843" expanded="true" signature="159:168" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/Serialize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1295">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+          <folding>
+            <marker date="1541217677508" expanded="true" signature="154:258" ph="..." />
+            <marker date="1541217677508" expanded="true" signature="284:293" ph="..." />
+            <marker date="1541217677508" expanded="true" signature="284:432" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
