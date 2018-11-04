@@ -1,1 +1,1 @@
-'1'.isnumeric()
+print(bin(3))

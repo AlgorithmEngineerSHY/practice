@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1427edec-3c05-4c7d-9243-f261033f57de" name="Default" comment="20181102">
-      <change afterPath="$PROJECT_DIR$/sword/FindNumbersWithSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/FindNumsAppearOnce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/GetNext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/GetNumberOfK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/LeftRotateString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/Print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/Print2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/ReverseSentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/Serialize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/TreeDepth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword/isSymmetrical.py" afterDir="false" />
+    <list default="true" id="1427edec-3c05-4c7d-9243-f261033f57de" name="Default" comment="20181103">
+      <change afterPath="$PROJECT_DIR$/sword/GetMedian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/GetUglyNumber_Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/KthNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/maxInWindows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/minNumberInRotateArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/reConstructBinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword/stack.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
@@ -26,40 +22,40 @@
     <session id="-1681258455">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="37" />
+          <entry key="project.closed" value="38" />
           <entry key="project.open.time.0" value="23" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.26" value="3" />
           <entry key="project.open.time.28" value="2" />
-          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.30" value="2" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="39" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="28061" />
-          <entry key="txt" value="16" />
+          <entry key="py" value="29795" />
+          <entry key="txt" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="28061" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Python" value="29795" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="100" />
+          <entry key="py" value="109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="100" />
+          <entry key="Python" value="109" />
         </counts>
       </usages-collector>
     </session>
@@ -73,16 +69,28 @@
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test2.py">
+        <entry file="file://$PROJECT_DIR$/sword/GetUglyNumber_Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="357">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding>
+                <marker date="1541304342746" expanded="true" signature="61:62" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,13 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dynamic/Gray_Code.py" />
-        <option value="$PROJECT_DIR$/dynamic/decode-ways.py" />
-        <option value="$PROJECT_DIR$/dynamic/Triangle.py" />
-        <option value="$PROJECT_DIR$/dynamic/Palindrome_Partitioning.py" />
-        <option value="$PROJECT_DIR$/dynamic/Word_Break.py" />
-        <option value="$PROJECT_DIR$/dynamic/4Sum.py" />
-        <option value="$PROJECT_DIR$/dynamic/3Sum.py" />
         <option value="$PROJECT_DIR$/string/Longest_Substring_Without_Repeating_Characters.py" />
         <option value="$PROJECT_DIR$/string/Longest_Palindromic_Substring.py" />
         <option value="$PROJECT_DIR$/string/ZigZag_Conversion.py" />
@@ -151,8 +152,15 @@
         <option value="$PROJECT_DIR$/sword/isSymmetrical.py" />
         <option value="$PROJECT_DIR$/sword/Print.py" />
         <option value="$PROJECT_DIR$/sword/Print2.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/sword/Serialize.py" />
+        <option value="$PROJECT_DIR$/sword/KthNode.py" />
+        <option value="$PROJECT_DIR$/sword/GetMedian.py" />
+        <option value="$PROJECT_DIR$/sword/reConstructBinaryTree.py" />
+        <option value="$PROJECT_DIR$/sword/maxInWindows.py" />
+        <option value="$PROJECT_DIR$/sword/stack.py" />
+        <option value="$PROJECT_DIR$/sword/minNumberInRotateArray.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/sword/GetUglyNumber_Solution.py" />
       </list>
     </option>
   </component>
@@ -181,7 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,6 +205,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,8 +230,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Serialize">
-    <configuration name="Print" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.GetUglyNumber_Solution">
+    <configuration name="GetUglyNumber_Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_work_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,7 +243,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/Print.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/GetUglyNumber_Solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KthNode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice_work_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sword" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/KthNode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TreeDepth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reConstructBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_work_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,28 +306,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/TreeDepth.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="isSymmetrical" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice_work_space" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sword" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/isSymmetrical.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sword/reConstructBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,19 +366,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.TreeDepth" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.isSymmetrical" />
-      <item itemvalue="Python.Print" />
       <item itemvalue="Python.Serialize" />
+      <item itemvalue="Python.KthNode" />
+      <item itemvalue="Python.reConstructBinaryTree" />
+      <item itemvalue="Python.GetUglyNumber_Solution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Serialize" />
+        <item itemvalue="Python.GetUglyNumber_Solution" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Print" />
-        <item itemvalue="Python.isSymmetrical" />
-        <item itemvalue="Python.TreeDepth" />
+        <item itemvalue="Python.reConstructBinaryTree" />
+        <item itemvalue="Python.KthNode" />
+        <item itemvalue="Python.Serialize" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541165405958</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20181103">
+      <created>1541217689615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1541217689615</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -447,66 +462,10 @@
     <MESSAGE value="20181024" />
     <MESSAGE value="20181026" />
     <MESSAGE value="20181102" />
-    <option name="LAST_COMMIT_MESSAGE" value="20181102" />
+    <MESSAGE value="20181103" />
+    <option name="LAST_COMMIT_MESSAGE" value="20181103" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dynamic/Gray_Code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic/decode-ways.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic/Palindrome_Partitioning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic/Triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic/Word_Break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic/4Sum.py" />
-    <entry file="file://$PROJECT_DIR$/dynamic/3Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/Longest_Substring_Without_Repeating_Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/Longest_Palindromic_Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string/ZigZag_Conversion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -838,13 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sword/Serialize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1295">
@@ -857,10 +809,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sword/KthNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="16" column="23" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <marker date="1541250836734" expanded="true" signature="156:186" ph="..." />
+            <marker date="1541250836734" expanded="true" signature="257:266" ph="..." />
+            <marker date="1541250836734" expanded="true" signature="257:380" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/GetMedian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1541251177622" expanded="true" signature="39:67" ph="..." />
+            <marker date="1541251177622" expanded="true" signature="89:98" ph="..." />
+            <marker date="1541251177622" expanded="true" signature="89:151" ph="..." />
+            <marker date="1541251177622" expanded="true" signature="171:172" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/reConstructBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" selection-start-line="5" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <marker date="1541254083941" expanded="true" signature="130:135" ph="..." />
+            <marker date="1541254083941" expanded="true" signature="177:186" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.5/heapq.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.5/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7175">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/maxInWindows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <marker date="1541255612523" expanded="true" signature="55:63" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1541255973853" expanded="true" signature="69:103" ph="..." />
+            <marker date="1541255973853" expanded="true" signature="124:133" ph="..." />
+            <marker date="1541255973853" expanded="true" signature="124:162" ph="..." />
+            <marker date="1541255973853" expanded="true" signature="176:185" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/minNumberInRotateArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <marker date="1541298284427" expanded="true" signature="67:76" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sword/GetUglyNumber_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <marker date="1541304342746" expanded="true" signature="61:62" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
