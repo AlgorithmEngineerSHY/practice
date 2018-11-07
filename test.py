@@ -1,1 +1,1 @@
-print(bin(3))
+print(reversed([1,2,3]))
