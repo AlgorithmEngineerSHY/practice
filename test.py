@@ -1,4 +1,5 @@
-num_list = list(range(1, 4 + 1))
-num_list.reverse()
-num_list = map(str, num_list)
-print(num_list[0])
+a=[8,1,2,3,3,3,3]
+print(a.count(3))
+a.remove(3)
+a.sort()
+print(a)
