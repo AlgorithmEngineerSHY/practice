@@ -1,2 +1,4 @@
-for i in range(3, 1, -1):
-    print(i)
+a=[1,2,3]
+a.remove(2)
+print(a)
+print(reversed(a))
