@@ -1,38 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1427edec-3c05-4c7d-9243-f261033f57de" name="Default" comment="20181116">
-      <change afterPath="$PROJECT_DIR$/algo/Rectangle_Overlap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo/Surface_Area_of_3D_Shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Degree_of_an_Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Fair_Candy_Swap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Flipping_an_Image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Image_Smoother.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Magic_Squares_In_Grid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Maximize_Distance_to_Closest_Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Monotonic_Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Non-decreasing_Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Positions_of_Large_Groups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Smallest_Range_I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Sort_Array_By_Parity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Sort_Array_By_Parity_II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Toeplitz_Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/easy/Transpose_Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/Lemonade_Change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hash/Jewels_and_Stones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hash/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked_list/Middle_of_the_Linked_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/Peak_Index_in_a_Mountain_Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/Number_of_Recent_Calls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/Long_Pressed_Name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/Most_Common_Word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/Reverse_Only_Letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/Rotated_Digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/Increasing_Order_Search_Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/Leaf-Similar_Trees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/Minimum_Distance_Between_BST_Nodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/Search_in_a_Binary_Search_Tree.py" afterDir="false" />
+    <list default="true" id="1427edec-3c05-4c7d-9243-f261033f57de" name="Default" comment="20181116_">
+      <change afterPath="$PROJECT_DIR$/array/medium/Rectangle_Area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_/Basic_Calculator_II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/Count_Complete_Tree_Nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/House_Robber_III.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Combination_Sum_II.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Combination_Sum_II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Combinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Combinations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Complex_Number_Multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Complex_Number_Multiplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Group_Anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Group_Anagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Integer_to_Roman.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Integer_to_Roman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Long_Pressed_Name.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Long_Pressed_Name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Longest_Palindromic_Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Longest_Palindromic_Substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Longest_Substring_Without_Repeating_Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Longest_Substring_Without_Repeating_Characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Most_Common_Word.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Most_Common_Word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Multiply_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Multiply_Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Reverse_Only_Letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Reverse_Only_Letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Rotated_Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Rotated_Digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Set_Matrix_Zeroes.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Set_Matrix_Zeroes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Simplify_Path.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Simplify_Path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/To_Lower_Case.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/To_Lower_Case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Word_Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Word_Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/ZigZag_Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/ZigZag_Conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo/Peeking_Iterator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,44 +38,44 @@
     <session id="-1681258455">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="53" />
+          <entry key="project.closed" value="54" />
           <entry key="project.open.time.0" value="28" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.26" value="4" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.28" value="3" />
-          <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.29" value="4" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="3" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="55" />
+          <entry key="project.opened" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="56403" />
-          <entry key="txt" value="29" />
+          <entry key="py" value="58397" />
+          <entry key="txt" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="33" />
-          <entry key="Python" value="56403" />
+          <entry key="PLAIN_TEXT" value="34" />
+          <entry key="Python" value="58397" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="217" />
+          <entry key="py" value="223" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="217" />
+          <entry key="Python" value="223" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -96,17 +89,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tree/Search_in_a_Binary_Search_Tree.py">
+        <entry file="file://$PROJECT_DIR$/tree/House_Robber_III.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="7" selection-start-line="7" selection-end-line="27" selection-end-column="38" />
+            <state relative-caret-position="140">
+              <caret line="7" selection-start-line="7" selection-end-line="31" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -126,11 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Divide_and_Conquer/Search_a_2D_Matrix_II.py" />
-        <option value="$PROJECT_DIR$/array/medium/Find_the_Duplicate_Number.py" />
-        <option value="$PROJECT_DIR$/dynamic/Longest_Increasing_Subsequence.py" />
-        <option value="$PROJECT_DIR$/linked_list/Odd_Even_Linked_List.py" />
-        <option value="$PROJECT_DIR$/string/Complex_Number_Multiplication.py" />
         <option value="$PROJECT_DIR$/dynamic/Partition_Equal_Subset_Sum.py" />
         <option value="$PROJECT_DIR$/dynamic/Target_Sum.py" />
         <option value="$PROJECT_DIR$/search/Friend_Circles.py" />
@@ -167,7 +155,6 @@
         <option value="$PROJECT_DIR$/string/Most_Common_Word.py" />
         <option value="$PROJECT_DIR$/tree/Minimum_Distance_Between_BST_Nodes.py" />
         <option value="$PROJECT_DIR$/search/Peak_Index_in_a_Mountain_Array.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/hash/Jewels_and_Stones.py" />
         <option value="$PROJECT_DIR$/array/easy/Image_Smoother.py" />
         <option value="$PROJECT_DIR$/array/easy/Non-decreasing_Array.py" />
@@ -177,6 +164,12 @@
         <option value="$PROJECT_DIR$/algo/Rectangle_Overlap.py" />
         <option value="$PROJECT_DIR$/algo/Surface_Area_of_3D_Shapes.py" />
         <option value="$PROJECT_DIR$/tree/Search_in_a_Binary_Search_Tree.py" />
+        <option value="$PROJECT_DIR$/array/medium/Rectangle_Area.py" />
+        <option value="$PROJECT_DIR$/tree/Count_Complete_Tree_Nodes.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/string_/Basic_Calculator_II.py" />
+        <option value="$PROJECT_DIR$/algo/Peeking_Iterator.py" />
+        <option value="$PROJECT_DIR$/tree/House_Robber_III.py" />
       </list>
     </option>
   </component>
@@ -205,6 +198,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,16 +206,20 @@
               <item name="practice_work_space" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice_work_space" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="practice_work_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_work_space" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -241,7 +239,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Most_Common_Word">
+  <component name="RunManager" selected="Python.Basic_Calculator_II">
+    <configuration name="Basic_Calculator_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice_work_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string_" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_/Basic_Calculator_II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Degree_of_an_Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_work_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,27 +274,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/easy/Degree_of_an_Array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Largest_Number_At_Least_Twice_of_Others" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice_work_space" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array/easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/easy/Largest_Number_At_Least_Twice_of_Others.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,18 +376,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.Largest_Number_At_Least_Twice_of_Others" />
       <item itemvalue="Python.Min_Cost_Climbing_Stairs" />
       <item itemvalue="Python.Degree_of_an_Array" />
       <item itemvalue="Python.Most_Common_Word" />
+      <item itemvalue="Python.Basic_Calculator_II" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Most_Common_Word" />
+        <item itemvalue="Python.Basic_Calculator_II" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.Most_Common_Word" />
         <item itemvalue="Python.Degree_of_an_Array" />
         <item itemvalue="Python.Min_Cost_Climbing_Stairs" />
-        <item itemvalue="Python.Largest_Number_At_Least_Twice_of_Others" />
       </list>
     </recent_temporary>
   </component>
@@ -488,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542337823777</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="20181116_">
+      <created>1542378126254</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1542378126254</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -531,38 +536,10 @@
     <MESSAGE value="20181113" />
     <MESSAGE value="20181115" />
     <MESSAGE value="20181116" />
-    <option name="LAST_COMMIT_MESSAGE" value="20181116" />
+    <MESSAGE value="20181116_" />
+    <option name="LAST_COMMIT_MESSAGE" value="20181116_" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linked_list/.idea/modules.xml" />
-    <entry file="file://$PROJECT_DIR$/linked_list/Odd_Even_Linked_List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="6" selection-start-line="6" selection-end-line="34" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/Complex_Number_Multiplication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic/Partition_Equal_Subset_Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic/Target_Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/search/Friend_Circles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -619,7 +596,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string/To_Lower_Case.py">
+    <entry file="file://$PROJECT_DIR$/string_/To_Lower_Case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="6" column="26" selection-end-line="6" selection-end-column="26" />
@@ -661,7 +638,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string/Long_Pressed_Name.py">
+    <entry file="file://$PROJECT_DIR$/string_/Long_Pressed_Name.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
@@ -710,7 +687,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string/Reverse_Only_Letters.py">
+    <entry file="file://$PROJECT_DIR$/string_/Reverse_Only_Letters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
           <caret line="13" column="18" selection-end-line="14" />
@@ -794,7 +771,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string/Most_Common_Word.py">
+    <entry file="file://$PROJECT_DIR$/string_/Most_Common_Word.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
@@ -815,13 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hash/Jewels_and_Stones.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -836,13 +806,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algo/Reach_a_Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/Reach_a_Number.py" />
     <entry file="file://$PROJECT_DIR$/array/easy/Non-decreasing_Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -850,7 +814,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string/Rotated_Digits.py">
+    <entry file="file://$PROJECT_DIR$/string_/Rotated_Digits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="14" column="18" selection-end-line="18" />
@@ -880,8 +844,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tree/Search_in_a_Binary_Search_Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
+        <state relative-caret-position="385">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/medium/Rectangle_Area.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="3" column="62" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/Count_Complete_Tree_Nodes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
           <caret line="7" selection-start-line="7" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_/Basic_Calculator_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/Peeking_Iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="27" selection-start-line="27" selection-end-line="55" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/House_Robber_III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="31" selection-end-column="27" />
         </state>
       </provider>
     </entry>
