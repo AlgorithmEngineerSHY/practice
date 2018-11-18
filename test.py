@@ -1,1 +1,2 @@
-print(int(3))
+print(ord('a'))
+print(ord('z'))

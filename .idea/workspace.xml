@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1427edec-3c05-4c7d-9243-f261033f57de" name="Default" comment="20181116_">
-      <change afterPath="$PROJECT_DIR$/array/medium/Rectangle_Area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_/Basic_Calculator_II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/Count_Complete_Tree_Nodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/House_Robber_III.py" afterDir="false" />
+    <list default="true" id="1427edec-3c05-4c7d-9243-f261033f57de" name="Default" comment="20181117">
+      <change afterPath="$PROJECT_DIR$/algo/Largest_Triangle_Area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/easy/Shortest_Distance_to_a_Character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash/Longest_Word_in_Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash/Uncommon_Words_from_Two_Sentences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_/Number_of_Lines_To_Write_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_/Rotate_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/Implement_Trie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Combination_Sum_II.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Combination_Sum_II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Combinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Combinations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Complex_Number_Multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Complex_Number_Multiplication.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Group_Anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Group_Anagrams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Integer_to_Roman.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Integer_to_Roman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Long_Pressed_Name.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Long_Pressed_Name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Longest_Palindromic_Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Longest_Palindromic_Substring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Longest_Substring_Without_Repeating_Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Longest_Substring_Without_Repeating_Characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Most_Common_Word.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Most_Common_Word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Multiply_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Multiply_Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Reverse_Only_Letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Reverse_Only_Letters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Rotated_Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Rotated_Digits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Set_Matrix_Zeroes.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Set_Matrix_Zeroes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Simplify_Path.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Simplify_Path.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/To_Lower_Case.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/To_Lower_Case.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Word_Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/Word_Search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ZigZag_Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_/ZigZag_Conversion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo/Peeking_Iterator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,9 +22,9 @@
     <session id="-1681258455">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="54" />
+          <entry key="project.closed" value="55" />
           <entry key="project.open.time.0" value="28" />
-          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.26" value="4" />
           <entry key="project.open.time.27" value="1" />
@@ -51,31 +35,31 @@
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="56" />
+          <entry key="project.opened" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="58397" />
-          <entry key="txt" value="30" />
+          <entry key="py" value="59655" />
+          <entry key="txt" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="34" />
-          <entry key="Python" value="58397" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Python" value="59655" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="223" />
+          <entry key="py" value="231" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="223" />
+          <entry key="Python" value="231" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -89,17 +73,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="35">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hash/Longest_Word_in_Dictionary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tree/House_Robber_III.py">
+        <entry file="file://$PROJECT_DIR$/tree/Implement_Trie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" selection-start-line="7" selection-end-line="31" selection-end-column="27" />
+            <state>
+              <caret selection-end-line="52" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -119,13 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dynamic/Partition_Equal_Subset_Sum.py" />
-        <option value="$PROJECT_DIR$/dynamic/Target_Sum.py" />
-        <option value="$PROJECT_DIR$/search/Friend_Circles.py" />
-        <option value="$PROJECT_DIR$/tree/N-ary_Tree_Level_Order_Traversal.py" />
-        <option value="$PROJECT_DIR$/array/medium/Product_of_Array_Except_Self.py" />
-        <option value="$PROJECT_DIR$/array/medium/Find_All_Duplicates_in_an_Array.py" />
-        <option value="$PROJECT_DIR$/tree/Maximum_Depth_of_N-ary_Tree.py" />
         <option value="$PROJECT_DIR$/tree/N-ary_Tree_Preorder_Traversal.py" />
         <option value="$PROJECT_DIR$/tree/N-ary_Tree_Postorder_Traversal.py" />
         <option value="$PROJECT_DIR$/string/To_Lower_Case.py" />
@@ -166,10 +152,17 @@
         <option value="$PROJECT_DIR$/tree/Search_in_a_Binary_Search_Tree.py" />
         <option value="$PROJECT_DIR$/array/medium/Rectangle_Area.py" />
         <option value="$PROJECT_DIR$/tree/Count_Complete_Tree_Nodes.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/string_/Basic_Calculator_II.py" />
         <option value="$PROJECT_DIR$/algo/Peeking_Iterator.py" />
         <option value="$PROJECT_DIR$/tree/House_Robber_III.py" />
+        <option value="$PROJECT_DIR$/array/easy/Shortest_Distance_to_a_Character.py" />
+        <option value="$PROJECT_DIR$/string_/Rotate_String.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/string_/Number_of_Lines_To_Write_String.py" />
+        <option value="$PROJECT_DIR$/algo/Largest_Triangle_Area.py" />
+        <option value="$PROJECT_DIR$/hash/Uncommon_Words_from_Two_Sentences.py" />
+        <option value="$PROJECT_DIR$/hash/Longest_Word_in_Dictionary.py" />
+        <option value="$PROJECT_DIR$/tree/Implement_Trie.py" />
       </list>
     </option>
   </component>
@@ -209,7 +202,7 @@
             <path>
               <item name="practice_work_space" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice_work_space" type="462c0819:PsiDirectoryNode" />
-              <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Basic_Calculator_II">
+  <component name="RunManager" selected="Python.Uncommon_Words_from_Two_Sentences">
     <configuration name="Basic_Calculator_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_work_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,27 +275,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Min_Cost_Climbing_Stairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice_work_space" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dynamic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dynamic/Min_Cost_Climbing_Stairs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Most_Common_Word" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_work_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,6 +288,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string/Most_Common_Word.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Uncommon_Words_from_Two_Sentences" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice_work_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hash" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hash/Uncommon_Words_from_Two_Sentences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,18 +369,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.Min_Cost_Climbing_Stairs" />
       <item itemvalue="Python.Degree_of_an_Array" />
       <item itemvalue="Python.Most_Common_Word" />
       <item itemvalue="Python.Basic_Calculator_II" />
+      <item itemvalue="Python.Uncommon_Words_from_Two_Sentences" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Basic_Calculator_II" />
+        <item itemvalue="Python.Uncommon_Words_from_Two_Sentences" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.Basic_Calculator_II" />
         <item itemvalue="Python.Most_Common_Word" />
         <item itemvalue="Python.Degree_of_an_Array" />
-        <item itemvalue="Python.Min_Cost_Climbing_Stairs" />
       </list>
     </recent_temporary>
   </component>
@@ -493,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542378126254</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="20181117">
+      <created>1542427663147</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1542427663147</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -505,7 +505,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.50080776" side_tool="true" weight="0.2695458" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3602585" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4168013" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -537,65 +537,10 @@
     <MESSAGE value="20181115" />
     <MESSAGE value="20181116" />
     <MESSAGE value="20181116_" />
-    <option name="LAST_COMMIT_MESSAGE" value="20181116_" />
+    <MESSAGE value="20181117" />
+    <option name="LAST_COMMIT_MESSAGE" value="20181117" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/search/Friend_Circles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/N-ary_Tree_Level_Order_Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1140262365/_functools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/medium/Product_of_Array_Except_Self.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/medium/Find_All_Duplicates_in_an_Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="10" selection-start-line="10" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/Maximum_Depth_of_N-ary_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/N-ary_Tree_Preorder_Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/N-ary_Tree_Postorder_Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="9" selection-start-line="9" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string_/To_Lower_Case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -877,17 +822,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/tree/House_Robber_III.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="280">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/House_Robber_III.py">
+    <entry file="file://$PROJECT_DIR$/array/easy/Shortest_Distance_to_a_Character.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="31" selection-end-column="27" />
+        <state relative-caret-position="42">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.5/site-packages/ScoreCardModel/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/string_/Rotate_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_/Number_of_Lines_To_Write_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="18" column="24" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/Largest_Triangle_Area.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/Uncommon_Words_from_Two_Sentences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/Longest_Word_in_Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/Implement_Trie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="52" selection-end-column="19" />
         </state>
       </provider>
     </entry>
