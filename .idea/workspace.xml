@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1427edec-3c05-4c7d-9243-f261033f57de" name="Default" comment="20181119">
-      <change afterPath="$PROJECT_DIR$/array/easy/Valid_Mountain_Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/Find_Smallest_Letter_Greater_Than_Target.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/Flood_Fill.py" afterDir="false" />
+    <list default="true" id="1427edec-3c05-4c7d-9243-f261033f57de" name="Default" comment="20181121">
+      <change afterPath="$PROJECT_DIR$/hash/Subdomain_Visit_Count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/Course_Schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/Course_Schedule_II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_/String_Compression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash/Longest_Word_in_Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/hash/Longest_Word_in_Dictionary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +19,8 @@
     <session id="-1681258455">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="60" />
-          <entry key="project.open.time.0" value="30" />
+          <entry key="project.closed" value="62" />
+          <entry key="project.open.time.0" value="31" />
           <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.26" value="4" />
@@ -31,33 +31,35 @@
           <entry key="project.open.time.30" value="3" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.33" value="3" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="62" />
+          <entry key="project.opened" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="63724" />
-          <entry key="txt" value="34" />
+          <entry key="py" value="65244" />
+          <entry key="txt" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="38" />
-          <entry key="Python" value="63724" />
+          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="Python" value="65244" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="243" />
+          <entry key="py" value="247" />
+          <entry key="pyi" value="1" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="243" />
+          <entry key="Python" value="247" />
+          <entry key="PythonStub" value="1" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -71,17 +73,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
+            <state relative-caret-position="70">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/search/Flood_Fill.py">
+        <entry file="file://$PROJECT_DIR$/search/Course_Schedule_II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="27" column="20" selection-end-line="29" />
+              <caret line="21" column="24" selection-end-line="35" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -101,10 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/string/Long_Pressed_Name.py" />
-        <option value="$PROJECT_DIR$/stack/Number_of_Recent_Calls.py" />
-        <option value="$PROJECT_DIR$/array/easy/Monotonic_Array.py" />
-        <option value="$PROJECT_DIR$/array/easy/Fair_Candy_Swap.py" />
         <option value="$PROJECT_DIR$/array/easy/Smallest_Range_I.py" />
         <option value="$PROJECT_DIR$/array/easy/Sort_Array_By_Parity.py" />
         <option value="$PROJECT_DIR$/array/easy/Sort_Array_By_Parity_II.py" />
@@ -147,11 +145,15 @@
         <option value="$PROJECT_DIR$/sort/Wiggle_Sort_II.py" />
         <option value="$PROJECT_DIR$/Divide_and_Conquer/Kth_Largest_Element_in_an_Array.py" />
         <option value="$PROJECT_DIR$/array/easy/Valid_Mountain_Array.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/search/Find_Smallest_Letter_Greater_Than_Target.py" />
         <option value="$PROJECT_DIR$/hash/Longest_Word_in_Dictionary_.py" />
         <option value="$PROJECT_DIR$/hash/Longest_Word_in_Dictionary.py" />
         <option value="$PROJECT_DIR$/search/Flood_Fill.py" />
+        <option value="$PROJECT_DIR$/string_/String_Compression.py" />
+        <option value="$PROJECT_DIR$/hash/Subdomain_Visit_Count.py" />
+        <option value="$PROJECT_DIR$/search/Course_Schedule.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/search/Course_Schedule_II.py" />
       </list>
     </option>
   </component>
@@ -186,6 +188,11 @@
             <path>
               <item name="practice_work_space" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice_work_space" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_work_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_work_space" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Range_Sum_Query_2D_Immutable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="String_Compression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_work_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dynamic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dynamic/Range_Sum_Query_2D_Immutable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_/String_Compression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Uncommon_Words_from_Two_Sentences" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Subdomain_Visit_Count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_work_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,7 +278,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hash/Uncommon_Words_from_Two_Sentences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hash/Subdomain_Visit_Count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,18 +360,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.Uncommon_Words_from_Two_Sentences" />
-      <item itemvalue="Python.Range_Sum_Query_2D_Immutable" />
       <item itemvalue="Python.Wiggle_Sort_II" />
       <item itemvalue="Python.Kth_Largest_Element_in_an_Array" />
+      <item itemvalue="Python.String_Compression" />
+      <item itemvalue="Python.Subdomain_Visit_Count" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.Subdomain_Visit_Count" />
+        <item itemvalue="Python.String_Compression" />
         <item itemvalue="Python.Kth_Largest_Element_in_an_Array" />
         <item itemvalue="Python.Wiggle_Sort_II" />
-        <item itemvalue="Python.Range_Sum_Query_2D_Immutable" />
-        <item itemvalue="Python.Uncommon_Words_from_Two_Sentences" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542723607115</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="20181121">
+      <created>1542769255179</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1542769255179</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -538,44 +552,10 @@
     <MESSAGE value="20181117" />
     <MESSAGE value="20181118" />
     <MESSAGE value="20181119" />
-    <option name="LAST_COMMIT_MESSAGE" value="20181119" />
+    <MESSAGE value="20181121" />
+    <option name="LAST_COMMIT_MESSAGE" value="20181121" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array/easy/Fair_Candy_Swap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" column="25" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/easy/Smallest_Range_I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/easy/Sort_Array_By_Parity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="14" column="21" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/easy/Sort_Array_By_Parity_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string_/Reverse_Only_Letters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="13" column="18" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/Middle_of_the_Linked_List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -851,9 +831,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hash/Longest_Word_in_Dictionary_.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/Longest_Word_in_Dictionary_.py" />
     <entry file="file://$PROJECT_DIR$/hash/Longest_Word_in_Dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2142">
@@ -868,17 +846,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/search/Flood_Fill.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        <state relative-caret-position="315">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/search/Flood_Fill.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/itertools.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3367" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_/String_Compression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-665">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/Subdomain_Visit_Count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search/Course_Schedule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search/Course_Schedule_II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="27" column="20" selection-end-line="29" />
+          <caret line="21" column="24" selection-end-line="35" selection-end-column="18" />
         </state>
       </provider>
     </entry>
